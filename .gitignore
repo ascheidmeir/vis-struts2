@@ -1,1 +1,4 @@
 /build/
+/hibernate.properties
+/src/hibernate.cfg.xml
+/.settings/
